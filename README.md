@@ -1,2 +1,1 @@
-# qq
-nothing
+# Tindog
